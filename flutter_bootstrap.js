@@ -11,6 +11,10 @@ _flutter.buildConfig = {"engineRevision":"a18df97ca57a249df5d8d68cd0820600223ce2
 
 _flutter.loader.load({
   serviceWorkerSettings: {
+<<<<<<< HEAD
     serviceWorkerVersion: "3965873271"
+=======
+    serviceWorkerVersion: "3228169834"
+>>>>>>> fb4b23b (Deploy Flutter web app)
   }
 });
